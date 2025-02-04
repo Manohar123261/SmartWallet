@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515145363417",
+    "project_id": "piggyplanner-4ba7b",
+    "storage_bucket": "piggyplanner-4ba7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515145363417:android:dcbde239b06bbe8f1bb3c8",
+        "android_client_info": {
+          "package_name": "com.compay.PiggyPlanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQWnk1bas1F4TtJvtZmj6nZwucCAGdGhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
